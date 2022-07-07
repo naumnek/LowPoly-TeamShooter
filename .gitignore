@@ -24,23 +24,22 @@
 !/**/*.meta
 
 #ignore import packages
-/Character*
-/CustomAssets/Import*
-/CustomAssets/Source*
-/CustomAssets/Source*
-/CustomAssets/Unity FPS Microgame/Animation*
-/CustomAssets/Unity FPS Microgame/Art*
-/CustomAssets/Unity FPS Microgame/Audio*
-/CustomAssets/Unity FPS Microgame/Prefabs*
-/CustomAssets/Unity FPS Microgame/Tutorials*
-/CustomAssets/Unity FPS Microgame/Scenes*
-/Environment*
-/Mobile*
-/Photon/DemoAsteroids/Resources*
-/PolygonSciFiCity*
-/Prefabs*
-/Scenes*
-/TutorialInfo*
+/[Aa]ssets/Character*
+/[Aa]ssets/CustomAssets/Import*
+/[Aa]ssets/CustomAssets/Source*
+/[Aa]ssets/CustomAssets/Unity FPS Microgame/Animation*
+/[Aa]ssets/CustomAssets/Unity FPS Microgame/Art*
+/[Aa]ssets/CustomAssets/Unity FPS Microgame/Audio*
+/[Aa]ssets/CustomAssets/Unity FPS Microgame/Prefabs*
+/[Aa]ssets/CustomAssets/Unity FPS Microgame/Tutorials*
+/[Aa]ssets/CustomAssets/Unity FPS Microgame/Scenes*
+/[Aa]ssets/Environment*
+/[Aa]ssets/Mobile*
+/[Aa]ssets/Photon*
+/[Aa]ssets/PolygonSciFiCity*
+/[Aa]ssets/Prefabs*
+/[Aa]ssets/Scenes*
+/[Aa]ssets/TutorialInfo*
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /AssetStoreTools*
